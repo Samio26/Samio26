@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sami Ben Aissa
 - 👀 I’m interested in New Technologies
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently expert Flutter developer
 - 💞️ I’m looking to collaborate on Big Source Projets
 
 <!---
